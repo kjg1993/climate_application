@@ -1,0 +1,10 @@
+.alert {
+    text-align: center;
+    margin-top: 2rem;
+    text-transform: uppercase;
+    font-weight: 900;
+    font-size: 1.8rem;
+    background-color: #ff6b3b;
+    padding: .5rem;
+    border-radius: .5rem;
+}
